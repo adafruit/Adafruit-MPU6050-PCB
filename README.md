@@ -1,16 +1,16 @@
-## Adafruit MPU6050 6-axis Accelerometer and Gyro PCB
+## Adafruit MPU6050 6-DoF Accelerometer and Gyro PCB
 
 <a href="http://www.adafruit.com/products/3886"><img src="assets/3886.jpg?raw=true" width="500px"><br/>
 Click here to purchase one from the Adafruit shop</a>
 
-PCB files for the Adafruit MPU6050 6-axis Accelerometer and Gyro. 
+PCB files for the Adafruit MPU6050 6-DoF Accelerometer and Gyro. 
 
 Format is EagleCAD schematic and board layout
 * https://www.adafruit.com/product/3886
 
 ### Description
 
-The MPU-6050 is a popular six axis accelerometer and gyroscope (gyro) that has all the info you need on how things are shakin' and spinnin' . With six axes of sensing and 16-bit measurements, you'll have everything you need to give your robot friend an inner ear.
+The MPU-6050 is a popular six DoF accelerometer and gyroscope (gyro) that has all the info you need on how things are shakin' and spinnin' . With six axes of sensing and 16-bit measurements, you'll have everything you need to give your robot friend an inner ear.
 
 This combination of gyroscopes and accelerometers is commonly referred to as an **I**nertial **M**easurement **U**nit or IMU. Not so long ago IMUs were the [size of a breadbox](http://mentalfloss.com/article/55835/how-big-breadbox) and cost upwards of **$50,000!** While you're not going to be using it to guide your mars rocket, the MPU-6050 is several orders of magnitude smaller and a bargain at a price three orders of magnitude less!  Now you can add telemetry to your [water rocket](https://en.wikipedia.org/wiki/Water_rocket) (with some waterproofing).
 
